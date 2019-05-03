@@ -4,6 +4,12 @@ Xcode templates is for generating Viper Architechture.
 
 ## Setup
 
+## One Click Installation
+
+To install the Xcode template open terminal and fire below command:
+
+`sh -c "$(curl -fsSL http://bit.ly/2J0cUwW)"`
+
 ### Script
 
 To install the Xcode templates you can run the shell script:
